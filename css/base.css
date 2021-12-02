@@ -1,0 +1,111 @@
+/* header */
+.header img {
+  width: 100px;
+}
+
+.header h1 {
+  background-color: red;
+  color: white;
+}
+
+.nav ul {
+  list-style: none;
+  font-size: 20px;
+  margin: 0;
+  padding: 0;
+}
+
+.nav a {
+  color: blue;
+}
+
+/* introduce */
+.introduce {
+  background-color: #a52a2a;
+  color: white;
+}
+
+.introduce h2 {
+  font-size: 40px;
+  text-align: center;
+}
+.introduce p {
+  font-size: 30px;
+}
+
+.introduce i {
+  color: black;
+  font-weight: bold;
+}
+
+.introduce img {
+  width: 50%;
+}
+
+/* Branch */
+.branch {
+  background-color: #a52a2a;
+  color: white;
+}
+
+.branch h2 {
+  font-size: 40px;
+  text-align: center;
+}
+
+.branch li {
+  font-size: 25px;
+}
+
+.branch img {
+  width: 50%;
+}
+
+/* priceboard */
+table {
+  width: 900px;
+  height: 800px;
+  margin: 0 auto;
+}
+
+.priceboard table,
+.priceboard th,
+.priceboard td {
+  border: 1px solid black;
+}
+
+.priceboard table th,
+.priceboard table td {
+  padding: 20px 0;
+}
+.priceboard h2 {
+  font-size: 40px;
+  text-align: center;
+}
+
+.left {
+  text-align: left;
+}
+
+.right {
+  text-align: right;
+}
+.center {
+  text-align: center;
+}
+
+.greentea-bg {
+  background-image: url(/img/greentea.jpg);
+}
+.blacktea-bg {
+  background-image: url(/img/blacktea.jpg);
+}
+.olongtea-bg {
+  background-image: url(/img/olongtea.jpg);
+}
+.fruittea-bg {
+  background-image: url(/img/fruit.jpg);
+}
+.milktea-bg {
+  background-image: url(/img/milktea.png);
+}
